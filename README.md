@@ -1,3 +1,5 @@
+### Basic example of a SPA site for browsing books with some filters and a detail page.
+
 ### For the implementation I chose a stack of technologies provided in the angular generator https://github.com/yeoman/generator-angular#readme (0.15.1.
 ) because I found it very complete and It's a good starting point for a client side project:
     - AngularJS (1.5)
